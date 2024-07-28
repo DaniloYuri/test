@@ -7,3 +7,6 @@ const calcular = (a+b)*c
 
 print(calcula)
 print ("danilo")
+while(manu == gostosa){
+    print("vou come ela")
+}
