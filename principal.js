@@ -10,3 +10,9 @@ print ("danilo")
 while(manu == gostosa){
     print("vou come ela")
 }
+
+var manu = [a , b , c]
+
+array.forEach(manu => {
+    manu*2
+});
